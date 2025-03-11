@@ -1,9 +1,7 @@
 h1 { color: blue; font-size: 24px; }
 #menu {
-    background-color: #a8e6cf; /* Vert pâle */
+    background-color: #a8e6cf;
     color: white;
->>>>>>> 70b7abb (td 02.07 Ajout d'une couleur de fond vert pâle et texte blanc au menu)
-}
 #copyright {
     font-size: 12px;
     text-align: center;
